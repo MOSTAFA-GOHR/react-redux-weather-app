@@ -1,0 +1,17 @@
+{
+    "min":"الصغري",
+    "max":"العظمي",
+    "Humidity":"الرطوبة",
+    "Feels Like":"الشعور الحالى",
+    "Cairo":"القاهرة",
+    "clear sky":"سماء صافية",
+    "few clouds":"سحب قليلة",
+    "scattered clouds":"سحب متفرقة",
+    "broken clouds":"غيوم متفرقة",
+    "shower rain":"زخات مطر",
+    "rain":"مطر",
+    "thunderstorm":"عاصفة رعدية",
+    "snow":"ثلج",
+    "mist":"mist",
+    "dust":"مملؤ بالتراب  "
+}

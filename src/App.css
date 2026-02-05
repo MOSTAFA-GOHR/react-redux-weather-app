@@ -1,0 +1,22 @@
+body{
+  background: linear-gradient(180deg,#0288D1,#0288D1,#FF6F00);
+}
+.App{
+  height: 100vh;
+}
+@media (max-width:670px) {
+  .card{
+    width: 100% !important;
+  }
+  .card-head{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .icon-size{
+    font-size: 100px !important;
+  }
+  .temp-size{
+    font-size: 60px !important;
+  }
+}
